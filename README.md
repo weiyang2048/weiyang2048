@@ -4,7 +4,7 @@
   - Statistics, Data Science
   - Scientific Computing
 - 📫 How to reach me ...
-  -Email : weiyang607@gmail.com
+  - Email : weiyang607@gmail.com
 
 <!---
 weiyang607/weiyang607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
