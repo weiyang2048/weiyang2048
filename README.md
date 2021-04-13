@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @weiyang607
+- 👋 Hi, I’m @weiyang607, a PhD candidate in mathematics at Binghamton University
 - 👀 I’m interested in 
   - Probability, Random Matrices, Stochastic Processes
   - Statistics, Data Science
