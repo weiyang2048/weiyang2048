@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @weiyang607, a PhD candidate in mathematics at Binghamton University
+- 👋 Hi, I’m @weiyang2048, a PhD candidate in mathematics at Binghamton University
 - 👀 I’m interested in 
   - Probability, Random Matrices, Stochastic Processes
   - Statistics, Data Science
   - Scientific Computing
 - 📫 How to reach me ...
-  - Email : weiyang607@gmail.com
+  - Email : weiyang2048@gmail.com
 
 <!---
 weiyang607/weiyang607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
