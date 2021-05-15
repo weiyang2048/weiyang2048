@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @weiyang2048, a PhD candidate in mathematics at Binghamton University
-- 👀 I’m interested in 
-  - Probability, Random Matrices, Stochastic Processes
+- 📖I’m interested in
+  - Probability, Random Matrix Theory and its applications in Data Analysis
   - Statistics, Data Science
   - Scientific Computing
 - 📫 How to reach me ...
