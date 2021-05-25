@@ -11,4 +11,4 @@ weiyang607/weiyang607 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://komarev.com/ghpvc/?username=weiyang2048&label=PROFILE+VIEWS)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiyang2048&layout=compact)](https://github.com/weiyang2045/github-readme-stats)
