@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @weiyang2048, a PhD candidate in mathematics at Binghamton University
-- 🌐 My personal website is at the address : weiyang2048.com
+- 🌐 My personal website is at the address : www.weiyang2048.com
 - 📖I’m interested in
   - Probability, Random Matrix Theory and its applications in Data Analysis
   - Statistics, Data Science
